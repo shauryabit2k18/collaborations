@@ -1,0 +1,30 @@
+MicrosoftEdgeCP
+MicrosoftEdge
+Microsoft Edge
+edge
+notepad
+NVIDIA
+powershell 
+SystemSettings 
+Video.UI
+WindowsInternal
+WinStore
+office
+word
+powerpoint
+excel
+onenote
+outlook
+clock
+news
+sticky notes
+torch
+browser
+tutorials
+learn-next
+intellij
+ide
+ApplicationFrameHostspotify
+Chrome
+Photos
+cmdCodeMongoDBCompassMongoDBCompasspython
